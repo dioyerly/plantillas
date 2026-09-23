@@ -1,0 +1,31 @@
+{
+  "file": "digital-planner-test.pdf",
+  "page_size_points": [
+    450,
+    720
+  ],
+  "orientation": "portrait",
+  "pages": 8,
+  "internal_links": 86,
+  "links_per_page": [
+    1,
+    16,
+    12,
+    12,
+    12,
+    11,
+    11,
+    11
+  ],
+  "minimum_button_points": [
+    94.5,
+    56
+  ],
+  "checks": "PASS: strict parse, render all pages, destinations match all buttons, nonempty pages, text/vector/link bounds, no forms, no JavaScript or external links",
+  "mobile_app_test": "Pending manual test on actual phone/tablet",
+  "generator": "Python + ReportLab",
+  "validators": [
+    "PyMuPDF",
+    "pypdf"
+  ]
+}
