@@ -1,0 +1,295 @@
+{
+  "generated_utc": "2026-09-23T20:16:32.275226+00:00",
+  "theme": "lavender",
+  "pdfs": [
+    {
+      "file": "YOYIR-Digital-Planner-Master-Test.pdf",
+      "pages": 60,
+      "dimensions_pt": [
+        540,
+        960
+      ],
+      "links": 523,
+      "links_per_page": [
+        1,
+        5,
+        5,
+        21,
+        9,
+        18,
+        18,
+        18,
+        6,
+        24,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        5,
+        8,
+        8,
+        8,
+        8,
+        8,
+        11,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        6,
+        6,
+        6,
+        6
+      ],
+      "destinations": 96,
+      "minimum_target_pt": [
+        72,
+        66
+      ],
+      "minimum_target_at_360px": [
+        48.0,
+        44.0
+      ],
+      "all_pages_reachable": true,
+      "printed_calendars_and_active_year_links_checked": true,
+      "errors": [],
+      "sha256": "eed1619f564bd9ae2ab3b0f2c9a4fbaaa64666542a3968164b5eb2e6e942c801"
+    },
+    {
+      "file": "YOYIR-Notebook-Test.pdf",
+      "pages": 32,
+      "dimensions_pt": [
+        540,
+        960
+      ],
+      "links": 526,
+      "links_per_page": [
+        1,
+        25,
+        18,
+        16,
+        16,
+        18,
+        16,
+        16,
+        18,
+        16,
+        16,
+        18,
+        16,
+        16,
+        18,
+        16,
+        16,
+        18,
+        16,
+        16,
+        18,
+        16,
+        16,
+        18,
+        16,
+        16,
+        18,
+        16,
+        16,
+        18,
+        16,
+        16
+      ],
+      "destinations": 32,
+      "minimum_target_pt": [
+        72,
+        66
+      ],
+      "minimum_target_at_360px": [
+        48.0,
+        44.0
+      ],
+      "all_pages_reachable": true,
+      "printed_calendars_and_active_year_links_checked": false,
+      "errors": [],
+      "sha256": "c35ac23e8e860ba0efac8d73a30bdbc73c9733daae93bd4bc5eea647dc4f16d4"
+    }
+  ],
+  "dates_checked": 1096,
+  "pngs": [
+    {
+      "file": "01-focus.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "02-today.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "03-note.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "04-pay-day.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "05-read.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "06-move.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "07-rest.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "08-plan.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "09-remember.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "10-small-win.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "11-save.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "12-to-do.png",
+      "size": [
+        1248,
+        720
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    }
+  ],
+  "legacy": {
+    "pages": 8,
+    "links": 86,
+    "original_files_unchanged": true,
+    "hashes": {
+      "generate_planner.py": "3078a253432667d91f01ffd19d85ec7ba4348ad60c319b81f749f44fe0d04a8e",
+      "digital-planner-test.pdf": "39dd4ef42009f9e4e0106965eacc5d1ce1f1e2923be1439b35533826ff1a1703",
+      "planner-preview.png": "4ff2d4040891652286dd158ad462be15d6763f61f1a3d71ad5fc29bfd9cd5b0e",
+      "validation-report.json": "ecbce703e4962d63dfe9d75f8353cd6fbc997c566ae32d9d71427aa68eea24df",
+      "requirements.txt": "8e6cf8d8dab660152d3b982bedeab56856964a62a113401cabed59c8da845f29"
+    }
+  },
+  "errors": [],
+  "manual_device_testing": "Pending: phone/tablet annotation apps, link activation, FitR zoom, handwriting, save/reopen."
+}

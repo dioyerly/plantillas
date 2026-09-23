@@ -1,0 +1,244 @@
+[
+  {
+    "id": "home",
+    "title": "YOYI'R NOTEBOOK",
+    "kind": "cover",
+    "theme": "lavender"
+  },
+  {
+    "id": "index",
+    "title": "Ten spaces, your own titles",
+    "kind": "index",
+    "theme": "lavender"
+  },
+  {
+    "id": "section-01",
+    "title": "Section 01",
+    "kind": "section",
+    "theme": "lavender",
+    "section": 1
+  },
+  {
+    "id": "section-01-1",
+    "title": "01 / Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 1,
+    "template": "lined"
+  },
+  {
+    "id": "section-01-2",
+    "title": "01 / Project notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 1,
+    "template": "project"
+  },
+  {
+    "id": "section-02",
+    "title": "Section 02",
+    "kind": "section",
+    "theme": "lavender",
+    "section": 2
+  },
+  {
+    "id": "section-02-1",
+    "title": "02 / Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 2,
+    "template": "lined"
+  },
+  {
+    "id": "section-02-2",
+    "title": "02 / Project notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 2,
+    "template": "project"
+  },
+  {
+    "id": "section-03",
+    "title": "Section 03",
+    "kind": "section",
+    "theme": "lavender",
+    "section": 3
+  },
+  {
+    "id": "section-03-1",
+    "title": "03 / Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 3,
+    "template": "lined"
+  },
+  {
+    "id": "section-03-2",
+    "title": "03 / Project notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 3,
+    "template": "project"
+  },
+  {
+    "id": "section-04",
+    "title": "Section 04",
+    "kind": "section",
+    "theme": "lavender",
+    "section": 4
+  },
+  {
+    "id": "section-04-1",
+    "title": "04 / Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 4,
+    "template": "lined"
+  },
+  {
+    "id": "section-04-2",
+    "title": "04 / Project notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 4,
+    "template": "project"
+  },
+  {
+    "id": "section-05",
+    "title": "Section 05",
+    "kind": "section",
+    "theme": "lavender",
+    "section": 5
+  },
+  {
+    "id": "section-05-1",
+    "title": "05 / Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 5,
+    "template": "lined"
+  },
+  {
+    "id": "section-05-2",
+    "title": "05 / Project notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 5,
+    "template": "project"
+  },
+  {
+    "id": "section-06",
+    "title": "Section 06",
+    "kind": "section",
+    "theme": "lavender",
+    "section": 6
+  },
+  {
+    "id": "section-06-1",
+    "title": "06 / Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 6,
+    "template": "lined"
+  },
+  {
+    "id": "section-06-2",
+    "title": "06 / Project notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 6,
+    "template": "project"
+  },
+  {
+    "id": "section-07",
+    "title": "Section 07",
+    "kind": "section",
+    "theme": "lavender",
+    "section": 7
+  },
+  {
+    "id": "section-07-1",
+    "title": "07 / Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 7,
+    "template": "lined"
+  },
+  {
+    "id": "section-07-2",
+    "title": "07 / Project notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 7,
+    "template": "project"
+  },
+  {
+    "id": "section-08",
+    "title": "Section 08",
+    "kind": "section",
+    "theme": "lavender",
+    "section": 8
+  },
+  {
+    "id": "section-08-1",
+    "title": "08 / Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 8,
+    "template": "lined"
+  },
+  {
+    "id": "section-08-2",
+    "title": "08 / Project notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 8,
+    "template": "project"
+  },
+  {
+    "id": "section-09",
+    "title": "Section 09",
+    "kind": "section",
+    "theme": "lavender",
+    "section": 9
+  },
+  {
+    "id": "section-09-1",
+    "title": "09 / Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 9,
+    "template": "lined"
+  },
+  {
+    "id": "section-09-2",
+    "title": "09 / Project notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 9,
+    "template": "project"
+  },
+  {
+    "id": "section-10",
+    "title": "Section 10",
+    "kind": "section",
+    "theme": "lavender",
+    "section": 10
+  },
+  {
+    "id": "section-10-1",
+    "title": "10 / Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 10,
+    "template": "lined"
+  },
+  {
+    "id": "section-10-2",
+    "title": "10 / Project notes",
+    "kind": "note",
+    "theme": "lavender",
+    "section": 10,
+    "template": "project"
+  }
+]

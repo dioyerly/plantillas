@@ -1,0 +1,56 @@
+{
+  "lavender": {
+    "name": "LAVENDER",
+    "background": "#FBF9FD",
+    "soft": "#E9E0F2",
+    "accent": "#796487",
+    "ink": "#363541",
+    "rule": "#CECCD3",
+    "paper": "#FFFFFF"
+  },
+  "blush": {
+    "name": "BLUSH",
+    "background": "#FFF9F9",
+    "soft": "#F4DFE4",
+    "accent": "#956773",
+    "ink": "#363541",
+    "rule": "#CECCD3",
+    "paper": "#FFFFFF"
+  },
+  "sage": {
+    "name": "SAGE",
+    "background": "#F8FBF8",
+    "soft": "#DFEBDD",
+    "accent": "#627A64",
+    "ink": "#363541",
+    "rule": "#CECCD3",
+    "paper": "#FFFFFF"
+  },
+  "sky": {
+    "name": "SKY",
+    "background": "#F8FBFE",
+    "soft": "#DFEAF5",
+    "accent": "#607B96",
+    "ink": "#363541",
+    "rule": "#CECCD3",
+    "paper": "#FFFFFF"
+  },
+  "sand": {
+    "name": "SAND",
+    "background": "#FDFBF6",
+    "soft": "#EFE5D2",
+    "accent": "#88724F",
+    "ink": "#363541",
+    "rule": "#CECCD3",
+    "paper": "#FFFFFF"
+  },
+  "neutral": {
+    "name": "NEUTRAL",
+    "background": "#FBFAF8",
+    "soft": "#E8E5E1",
+    "accent": "#77716A",
+    "ink": "#363541",
+    "rule": "#CECCD3",
+    "paper": "#FFFFFF"
+  }
+}

@@ -1,0 +1,430 @@
+[
+  {
+    "id": "home",
+    "title": "YOYI'R DIGITAL PLANNER",
+    "kind": "cover",
+    "theme": "lavender"
+  },
+  {
+    "id": "welcome",
+    "title": "Welcome to your space",
+    "kind": "welcome",
+    "theme": "lavender"
+  },
+  {
+    "id": "quick",
+    "title": "A calm beginning",
+    "kind": "quick",
+    "theme": "lavender"
+  },
+  {
+    "id": "index",
+    "title": "Your planner, connected",
+    "kind": "index",
+    "theme": "lavender"
+  },
+  {
+    "id": "years",
+    "title": "Choose your year",
+    "kind": "years",
+    "theme": "lavender"
+  },
+  {
+    "id": "year-2026",
+    "title": "2026 / Year overview",
+    "kind": "year",
+    "theme": "lavender",
+    "year": 2026
+  },
+  {
+    "id": "year-2027",
+    "title": "2027 / Year overview",
+    "kind": "year",
+    "theme": "lavender",
+    "year": 2027
+  },
+  {
+    "id": "year-2028",
+    "title": "2028 / Year overview",
+    "kind": "year",
+    "theme": "lavender",
+    "year": 2028
+  },
+  {
+    "id": "undated",
+    "title": "An open beginning",
+    "kind": "undated",
+    "theme": "lavender"
+  },
+  {
+    "id": "month",
+    "title": "January 2026",
+    "kind": "month",
+    "theme": "lavender",
+    "year": 2026,
+    "month": 1
+  },
+  {
+    "id": "calendar",
+    "title": "Monthly calendar",
+    "kind": "calendar",
+    "theme": "lavender",
+    "year": 2026,
+    "month": 1
+  },
+  {
+    "id": "month-goals",
+    "title": "Focus & priorities",
+    "kind": "month_goals",
+    "theme": "lavender",
+    "year": 2026,
+    "month": 1
+  },
+  {
+    "id": "month-habits",
+    "title": "Small things, often",
+    "kind": "month_habits",
+    "theme": "lavender",
+    "year": 2026,
+    "month": 1
+  },
+  {
+    "id": "month-money",
+    "title": "Money, with intention",
+    "kind": "month_money",
+    "theme": "lavender",
+    "year": 2026,
+    "month": 1
+  },
+  {
+    "id": "month-reflection",
+    "title": "January / Looking back",
+    "kind": "month_reflection",
+    "theme": "lavender",
+    "year": 2026,
+    "month": 1
+  },
+  {
+    "id": "week",
+    "title": "A week with intention",
+    "kind": "week",
+    "theme": "lavender",
+    "year": 2026,
+    "month": 1
+  },
+  {
+    "id": "week-life",
+    "title": "The rest of the week",
+    "kind": "week_life",
+    "theme": "lavender",
+    "year": 2026,
+    "month": 1
+  },
+  {
+    "id": "day",
+    "title": "Saturday, January 31",
+    "kind": "day",
+    "theme": "lavender",
+    "year": 2026,
+    "month": 1
+  },
+  {
+    "id": "day-life",
+    "title": "A little room for you",
+    "kind": "day_life",
+    "theme": "lavender",
+    "year": 2026,
+    "month": 1
+  },
+  {
+    "id": "goals",
+    "title": "From intention to action",
+    "kind": "goals",
+    "theme": "lavender"
+  },
+  {
+    "id": "life",
+    "title": "LIFESTYLE",
+    "kind": "module",
+    "theme": "lavender",
+    "module": "life"
+  },
+  {
+    "id": "wellness",
+    "title": "WELLNESS",
+    "kind": "module",
+    "theme": "lavender",
+    "module": "wellness"
+  },
+  {
+    "id": "selfcare",
+    "title": "SELF-CARE",
+    "kind": "module",
+    "theme": "lavender",
+    "module": "selfcare"
+  },
+  {
+    "id": "productivity",
+    "title": "PRODUCTIVITY",
+    "kind": "module",
+    "theme": "lavender",
+    "module": "productivity"
+  },
+  {
+    "id": "money",
+    "title": "MONEY",
+    "kind": "module",
+    "theme": "lavender",
+    "module": "money"
+  },
+  {
+    "id": "notes",
+    "title": "NOTES",
+    "kind": "module",
+    "theme": "lavender",
+    "module": "notes"
+  },
+  {
+    "id": "life-1",
+    "title": "DREAM LIFE",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "life",
+    "template": "vision"
+  },
+  {
+    "id": "life-2",
+    "title": "BOOK LOG",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "life",
+    "template": "reading"
+  },
+  {
+    "id": "wellness-1",
+    "title": "WEEKLY CHECK-IN",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "wellness",
+    "template": "wellbeing"
+  },
+  {
+    "id": "wellness-2",
+    "title": "MOVEMENT PLAN",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "wellness",
+    "template": "movement"
+  },
+  {
+    "id": "selfcare-1",
+    "title": "DAILY GRATITUDE",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "selfcare",
+    "template": "gratitude"
+  },
+  {
+    "id": "selfcare-2",
+    "title": "SELF-COMPASSION",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "selfcare",
+    "template": "reflection"
+  },
+  {
+    "id": "productivity-1",
+    "title": "PROJECT PLANNER",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "productivity",
+    "template": "project"
+  },
+  {
+    "id": "productivity-2",
+    "title": "FOCUS SESSION",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "productivity",
+    "template": "focus"
+  },
+  {
+    "id": "money-1",
+    "title": "MONTHLY BUDGET",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "money",
+    "template": "budget"
+  },
+  {
+    "id": "money-2",
+    "title": "EXPENSE TRACKER",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "money",
+    "template": "expenses"
+  },
+  {
+    "id": "notes-1",
+    "title": "BLANK",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "notes",
+    "template": "blank"
+  },
+  {
+    "id": "notes-2",
+    "title": "GRID",
+    "kind": "template",
+    "theme": "lavender",
+    "module": "notes",
+    "template": "grid"
+  },
+  {
+    "id": "theme-lavender",
+    "title": "LAVENDER",
+    "kind": "theme",
+    "theme": "lavender"
+  },
+  {
+    "id": "theme-blush",
+    "title": "BLUSH",
+    "kind": "theme",
+    "theme": "blush"
+  },
+  {
+    "id": "theme-sage",
+    "title": "SAGE",
+    "kind": "theme",
+    "theme": "sage"
+  },
+  {
+    "id": "theme-sky",
+    "title": "SKY",
+    "kind": "theme",
+    "theme": "sky"
+  },
+  {
+    "id": "theme-sand",
+    "title": "SAND",
+    "kind": "theme",
+    "theme": "sand"
+  },
+  {
+    "id": "theme-neutral",
+    "title": "NEUTRAL",
+    "kind": "theme",
+    "theme": "neutral"
+  },
+  {
+    "id": "cover-01",
+    "title": "Cover 01",
+    "kind": "cover_sample",
+    "theme": "lavender",
+    "variant": 0
+  },
+  {
+    "id": "cover-02",
+    "title": "Cover 02",
+    "kind": "cover_sample",
+    "theme": "blush",
+    "variant": 1
+  },
+  {
+    "id": "cover-03",
+    "title": "Cover 03",
+    "kind": "cover_sample",
+    "theme": "sage",
+    "variant": 2
+  },
+  {
+    "id": "cover-04",
+    "title": "Cover 04",
+    "kind": "cover_sample",
+    "theme": "sky",
+    "variant": 3
+  },
+  {
+    "id": "cover-05",
+    "title": "Cover 05",
+    "kind": "cover_sample",
+    "theme": "sand",
+    "variant": 4
+  },
+  {
+    "id": "cover-06",
+    "title": "Cover 06",
+    "kind": "cover_sample",
+    "theme": "neutral",
+    "variant": 5
+  },
+  {
+    "id": "cover-07",
+    "title": "Cover 07",
+    "kind": "cover_sample",
+    "theme": "lavender",
+    "variant": 6
+  },
+  {
+    "id": "cover-08",
+    "title": "Cover 08",
+    "kind": "cover_sample",
+    "theme": "blush",
+    "variant": 7
+  },
+  {
+    "id": "cover-09",
+    "title": "Cover 09",
+    "kind": "cover_sample",
+    "theme": "sage",
+    "variant": 8
+  },
+  {
+    "id": "cover-10",
+    "title": "Cover 10",
+    "kind": "cover_sample",
+    "theme": "sky",
+    "variant": 9
+  },
+  {
+    "id": "cover-11",
+    "title": "Cover 11",
+    "kind": "cover_sample",
+    "theme": "sand",
+    "variant": 10
+  },
+  {
+    "id": "cover-12",
+    "title": "Cover 12",
+    "kind": "cover_sample",
+    "theme": "neutral",
+    "variant": 11
+  },
+  {
+    "id": "lined",
+    "title": "Lined notes",
+    "kind": "note",
+    "theme": "lavender",
+    "template": "lined"
+  },
+  {
+    "id": "dot",
+    "title": "Dot grid notes",
+    "kind": "note",
+    "theme": "lavender",
+    "template": "dot"
+  },
+  {
+    "id": "cornell",
+    "title": "Cornell notes",
+    "kind": "note",
+    "theme": "lavender",
+    "template": "cornell"
+  },
+  {
+    "id": "stickers",
+    "title": "Little markers, clear meaning",
+    "kind": "stickers",
+    "theme": "lavender"
+  }
+]

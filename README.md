@@ -32,3 +32,23 @@ python generate_planner.py
 ```
 
 El script escribe el PDF, la vista previa y el informe en su misma carpeta. El PDF final no requiere Python ni esas fuentes instaladas en el dispositivo: las fuentes están incrustadas.
+
+## YOYI'R · Fase 1
+
+La nueva arquitectura se agrega en `src/` y conserva intacta la prueba original.
+
+- [Planner master · 60 páginas](output/YOYIR-Digital-Planner-Master-Test.pdf)
+- [Notebook · 32 páginas](output/YOYIR-Notebook-Test.pdf)
+- [Paquete para descargar](output/YOYIR-Phase1-Bundle.zip)
+- [Stickers PNG transparentes](output/stickers-test/)
+- [Vistas previas](output/previews/)
+- [Informe de construcción y validación](docs/BUILD-REPORT.md)
+- [Arquitectura y regeneración](docs/ARCHITECTURE.md)
+- [Prueba manual en teléfono/tablet](docs/MOBILE-TEST.md)
+
+```shell
+python -m src.build
+python -m unittest discover -s tests -v
+```
+
+Incluye seis temas, doce portadas, calendarios anuales completos 2026–2028, enero 2026 desarrollado y ejemplos de semana/día. No se ha iniciado la Fase 2 ni se declara compatibilidad probada con una app concreta.

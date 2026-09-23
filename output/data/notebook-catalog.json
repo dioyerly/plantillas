@@ -1,0 +1,44 @@
+[
+  {
+    "id": "notebook-01",
+    "type": "LINED",
+    "sections": 10,
+    "templates_per_section": 2,
+    "status": "test-generated"
+  },
+  {
+    "id": "notebook-02",
+    "type": "DOT GRID",
+    "sections": 10,
+    "templates_per_section": 2,
+    "status": "configured"
+  },
+  {
+    "id": "notebook-03",
+    "type": "GRID",
+    "sections": 10,
+    "templates_per_section": 2,
+    "status": "configured"
+  },
+  {
+    "id": "notebook-04",
+    "type": "BLANK",
+    "sections": 10,
+    "templates_per_section": 2,
+    "status": "configured"
+  },
+  {
+    "id": "notebook-05",
+    "type": "STUDY",
+    "sections": 10,
+    "templates_per_section": 2,
+    "status": "configured"
+  },
+  {
+    "id": "notebook-06",
+    "type": "PROJECT",
+    "sections": 10,
+    "templates_per_section": 2,
+    "status": "configured"
+  }
+]
