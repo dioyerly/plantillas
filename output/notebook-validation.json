@@ -1,0 +1,66 @@
+{
+  "notebooks": [
+    {
+      "nombre": "CUADERNO DE NOTAS",
+      "archivo": "output\\notebooks\\YOYIR-Cuaderno-Notas-ES.pdf",
+      "paginas": 64,
+      "secciones": 10,
+      "plantillas": 8,
+      "papeles": 18,
+      "enlaces": 948,
+      "enlaces_rotos": 0
+    },
+    {
+      "nombre": "CUADERNO DE ESTUDIO",
+      "archivo": "output\\notebooks\\YOYIR-Cuaderno-Estudio-ES.pdf",
+      "paginas": 67,
+      "secciones": 10,
+      "plantillas": 11,
+      "papeles": 18,
+      "enlaces": 1005,
+      "enlaces_rotos": 0
+    },
+    {
+      "nombre": "CUADERNO DE PROYECTOS",
+      "archivo": "output\\notebooks\\YOYIR-Cuaderno-Proyectos-ES.pdf",
+      "paginas": 71,
+      "secciones": 10,
+      "plantillas": 15,
+      "papeles": 18,
+      "enlaces": 1081,
+      "enlaces_rotos": 0
+    },
+    {
+      "nombre": "CUADERNO DE IDEAS",
+      "archivo": "output\\notebooks\\YOYIR-Cuaderno-Ideas-ES.pdf",
+      "paginas": 69,
+      "secciones": 10,
+      "plantillas": 13,
+      "papeles": 18,
+      "enlaces": 1043,
+      "enlaces_rotos": 0
+    },
+    {
+      "nombre": "CUADERNO DE BIENESTAR",
+      "archivo": "output\\notebooks\\YOYIR-Cuaderno-Bienestar-ES.pdf",
+      "paginas": 68,
+      "secciones": 10,
+      "plantillas": 12,
+      "papeles": 18,
+      "enlaces": 1024,
+      "enlaces_rotos": 0
+    },
+    {
+      "nombre": "MI CUADERNO",
+      "archivo": "output\\notebooks\\YOYIR-Mi-Cuaderno-ES.pdf",
+      "paginas": 68,
+      "secciones": 10,
+      "plantillas": 12,
+      "papeles": 18,
+      "enlaces": 1024,
+      "enlaces_rotos": 0
+    }
+  ],
+  "portadas": 36,
+  "enlaces_rotos": 0
+}

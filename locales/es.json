@@ -1,0 +1,10 @@
+{
+  "locale": "es",
+  "language": "Español",
+  "months": ["ENERO", "FEBRERO", "MARZO", "ABRIL", "MAYO", "JUNIO", "JULIO", "AGOSTO", "SEPTIEMBRE", "OCTUBRE", "NOVIEMBRE", "DICIEMBRE"],
+  "month_tabs": ["ENE", "FEB", "MAR", "ABR", "MAY", "JUN", "JUL", "AGO", "SEP", "OCT", "NOV", "DIC"],
+  "weekdays": ["LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES", "SÁBADO", "DOMINGO"],
+  "weekdays_short": ["LUN", "MAR", "MIÉ", "JUE", "VIE", "SÁB", "DOM"],
+  "navigation": {"home": "INICIO", "year": "AÑO", "month": "MES", "week": "SEMANA", "day": "DÍA", "goals": "OBJETIVOS", "life": "VIDA", "wellness": "BIENESTAR", "selfcare": "AUTOCUIDADO", "productivity": "PRODUCTIVIDAD", "money": "FINANZAS", "notes": "NOTAS", "previous": "← ANTERIOR", "next": "SIGUIENTE →"},
+  "labels": {"planner": "PLANIFICADOR DIGITAL", "year_overview": "RESUMEN ANUAL", "year_at_glance": "AÑO DE UN VISTAZO", "important_dates": "FECHAS IMPORTANTES", "birthdays": "CUMPLEAÑOS", "projects": "PROYECTOS", "financial_goals": "OBJETIVOS FINANCIEROS", "personal_goals": "OBJETIVOS PERSONALES", "wellness_goals": "OBJETIVOS DE BIENESTAR", "professional_goals": "OBJETIVOS PROFESIONALES", "vision_board": "TABLERO DE VISIÓN", "quarter_plan": "PLAN TRIMESTRAL", "annual_review": "REVISIÓN ANUAL", "monthly_dashboard": "PLANIFICADOR MENSUAL", "monthly_calendar": "CALENDARIO MENSUAL", "monthly_focus": "ENFOQUE DEL MES", "priorities": "3 PRIORIDADES", "to_do": "POR HACER", "habits": "HÁBITOS", "notes": "NOTAS", "financial_goal": "OBJETIVO FINANCIERO", "reminders": "RECORDATORIOS", "weekly_planner": "PLANIFICADOR SEMANAL", "weekly_focus": "ENFOQUE DE LA SEMANA", "meals": "COMIDAS", "weekly_review": "REVISIÓN SEMANAL", "daily_planner": "PLANIFICADOR DIARIO", "today_focus": "ENFOQUE DE HOY", "schedule": "HORARIO", "water": "AGUA", "movement": "MOVIMIENTO", "mood": "ESTADO DE ÁNIMO", "gratitude": "GRATITUD", "tomorrow": "PARA MAÑANA", "undated": "SIN FECHA", "year_selector": "SELECCIONA UN AÑO"}
+}

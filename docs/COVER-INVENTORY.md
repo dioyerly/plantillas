@@ -1,0 +1,154 @@
+# Inventario de portadas YOYI'R
+
+Total: 150 portadas organizadas en 7 familias y 6 temas.
+
+- cover-minimal-001: MINIMAL · BLUSH · PLANIFICADOR
+- cover-minimal-002: MINIMAL · SAGE · PLANIFICADOR DIGITAL
+- cover-minimal-003: MINIMAL · SKY · MI PLANIFICADOR
+- cover-minimal-004: MINIMAL · SAND · 2026 · 2027 · 2028
+- cover-minimal-005: MINIMAL · NEUTRAL · MIS PLANES
+- cover-minimal-006: MINIMAL · LAVANDA · MI AÑO
+- cover-minimal-007: MINIMAL · BLUSH · ORGANIZA · ENFÓCATE · AVANZA
+- cover-minimal-008: MINIMAL · SAGE · YOYI’R
+- cover-minimal-009: MINIMAL · SKY · PLANIFICADOR
+- cover-minimal-010: MINIMAL · SAND · PLANIFICADOR DIGITAL
+- cover-minimal-011: MINIMAL · NEUTRAL · MI PLANIFICADOR
+- cover-minimal-012: MINIMAL · LAVANDA · 2026 · 2027 · 2028
+- cover-minimal-013: MINIMAL · BLUSH · MIS PLANES
+- cover-minimal-014: MINIMAL · SAGE · MI AÑO
+- cover-minimal-015: MINIMAL · SKY · ORGANIZA · ENFÓCATE · AVANZA
+- cover-minimal-016: MINIMAL · SAND · YOYI’R
+- cover-minimal-017: MINIMAL · NEUTRAL · PLANIFICADOR
+- cover-minimal-018: MINIMAL · LAVANDA · PLANIFICADOR DIGITAL
+- cover-minimal-019: MINIMAL · BLUSH · MI PLANIFICADOR
+- cover-minimal-020: MINIMAL · SAGE · 2026 · 2027 · 2028
+- cover-minimal-021: MINIMAL · SKY · MIS PLANES
+- cover-minimal-022: MINIMAL · SAND · MI AÑO
+- cover-minimal-023: MINIMAL · NEUTRAL · ORGANIZA · ENFÓCATE · AVANZA
+- cover-minimal-024: MINIMAL · LAVANDA · YOYI’R
+- cover-minimal-025: MINIMAL · BLUSH · PLANIFICADOR
+- cover-abstract-001: ABSTRACTA · SAGE · PLANIFICADOR DIGITAL
+- cover-abstract-002: ABSTRACTA · SKY · MI PLANIFICADOR
+- cover-abstract-003: ABSTRACTA · SAND · 2026 · 2027 · 2028
+- cover-abstract-004: ABSTRACTA · NEUTRAL · MIS PLANES
+- cover-abstract-005: ABSTRACTA · LAVANDA · MI AÑO
+- cover-abstract-006: ABSTRACTA · BLUSH · ORGANIZA · ENFÓCATE · AVANZA
+- cover-abstract-007: ABSTRACTA · SAGE · YOYI’R
+- cover-abstract-008: ABSTRACTA · SKY · PLANIFICADOR
+- cover-abstract-009: ABSTRACTA · SAND · PLANIFICADOR DIGITAL
+- cover-abstract-010: ABSTRACTA · NEUTRAL · MI PLANIFICADOR
+- cover-abstract-011: ABSTRACTA · LAVANDA · 2026 · 2027 · 2028
+- cover-abstract-012: ABSTRACTA · BLUSH · MIS PLANES
+- cover-abstract-013: ABSTRACTA · SAGE · MI AÑO
+- cover-abstract-014: ABSTRACTA · SKY · ORGANIZA · ENFÓCATE · AVANZA
+- cover-abstract-015: ABSTRACTA · SAND · YOYI’R
+- cover-abstract-016: ABSTRACTA · NEUTRAL · PLANIFICADOR
+- cover-abstract-017: ABSTRACTA · LAVANDA · PLANIFICADOR DIGITAL
+- cover-abstract-018: ABSTRACTA · BLUSH · MI PLANIFICADOR
+- cover-abstract-019: ABSTRACTA · SAGE · 2026 · 2027 · 2028
+- cover-abstract-020: ABSTRACTA · SKY · MIS PLANES
+- cover-abstract-021: ABSTRACTA · SAND · MI AÑO
+- cover-abstract-022: ABSTRACTA · NEUTRAL · ORGANIZA · ENFÓCATE · AVANZA
+- cover-abstract-023: ABSTRACTA · LAVANDA · YOYI’R
+- cover-abstract-024: ABSTRACTA · BLUSH · PLANIFICADOR
+- cover-abstract-025: ABSTRACTA · SAGE · PLANIFICADOR DIGITAL
+- cover-celestial-001: CELESTIAL · SKY · MI PLANIFICADOR
+- cover-celestial-002: CELESTIAL · SAND · 2026 · 2027 · 2028
+- cover-celestial-003: CELESTIAL · NEUTRAL · MIS PLANES
+- cover-celestial-004: CELESTIAL · LAVANDA · MI AÑO
+- cover-celestial-005: CELESTIAL · BLUSH · ORGANIZA · ENFÓCATE · AVANZA
+- cover-celestial-006: CELESTIAL · SAGE · YOYI’R
+- cover-celestial-007: CELESTIAL · SKY · PLANIFICADOR
+- cover-celestial-008: CELESTIAL · SAND · PLANIFICADOR DIGITAL
+- cover-celestial-009: CELESTIAL · NEUTRAL · MI PLANIFICADOR
+- cover-celestial-010: CELESTIAL · LAVANDA · 2026 · 2027 · 2028
+- cover-celestial-011: CELESTIAL · BLUSH · MIS PLANES
+- cover-celestial-012: CELESTIAL · SAGE · MI AÑO
+- cover-celestial-013: CELESTIAL · SKY · ORGANIZA · ENFÓCATE · AVANZA
+- cover-celestial-014: CELESTIAL · SAND · YOYI’R
+- cover-celestial-015: CELESTIAL · NEUTRAL · PLANIFICADOR
+- cover-celestial-016: CELESTIAL · LAVANDA · PLANIFICADOR DIGITAL
+- cover-celestial-017: CELESTIAL · BLUSH · MI PLANIFICADOR
+- cover-celestial-018: CELESTIAL · SAGE · 2026 · 2027 · 2028
+- cover-celestial-019: CELESTIAL · SKY · MIS PLANES
+- cover-celestial-020: CELESTIAL · SAND · MI AÑO
+- cover-botanical-001: BOTÁNICA MINIMALISTA · SKY · MI PLANIFICADOR
+- cover-botanical-002: BOTÁNICA MINIMALISTA · SAND · 2026 · 2027 · 2028
+- cover-botanical-003: BOTÁNICA MINIMALISTA · NEUTRAL · MIS PLANES
+- cover-botanical-004: BOTÁNICA MINIMALISTA · LAVANDA · MI AÑO
+- cover-botanical-005: BOTÁNICA MINIMALISTA · BLUSH · ORGANIZA · ENFÓCATE · AVANZA
+- cover-botanical-006: BOTÁNICA MINIMALISTA · SAGE · YOYI’R
+- cover-botanical-007: BOTÁNICA MINIMALISTA · SKY · PLANIFICADOR
+- cover-botanical-008: BOTÁNICA MINIMALISTA · SAND · PLANIFICADOR DIGITAL
+- cover-botanical-009: BOTÁNICA MINIMALISTA · NEUTRAL · MI PLANIFICADOR
+- cover-botanical-010: BOTÁNICA MINIMALISTA · LAVANDA · 2026 · 2027 · 2028
+- cover-botanical-011: BOTÁNICA MINIMALISTA · BLUSH · MIS PLANES
+- cover-botanical-012: BOTÁNICA MINIMALISTA · SAGE · MI AÑO
+- cover-botanical-013: BOTÁNICA MINIMALISTA · SKY · ORGANIZA · ENFÓCATE · AVANZA
+- cover-botanical-014: BOTÁNICA MINIMALISTA · SAND · YOYI’R
+- cover-botanical-015: BOTÁNICA MINIMALISTA · NEUTRAL · PLANIFICADOR
+- cover-botanical-016: BOTÁNICA MINIMALISTA · LAVANDA · PLANIFICADOR DIGITAL
+- cover-botanical-017: BOTÁNICA MINIMALISTA · BLUSH · MI PLANIFICADOR
+- cover-botanical-018: BOTÁNICA MINIMALISTA · SAGE · 2026 · 2027 · 2028
+- cover-botanical-019: BOTÁNICA MINIMALISTA · SKY · MIS PLANES
+- cover-botanical-020: BOTÁNICA MINIMALISTA · SAND · MI AÑO
+- cover-geometric-001: GEOMÉTRICA · SKY · MI PLANIFICADOR
+- cover-geometric-002: GEOMÉTRICA · SAND · 2026 · 2027 · 2028
+- cover-geometric-003: GEOMÉTRICA · NEUTRAL · MIS PLANES
+- cover-geometric-004: GEOMÉTRICA · LAVANDA · MI AÑO
+- cover-geometric-005: GEOMÉTRICA · BLUSH · ORGANIZA · ENFÓCATE · AVANZA
+- cover-geometric-006: GEOMÉTRICA · SAGE · YOYI’R
+- cover-geometric-007: GEOMÉTRICA · SKY · PLANIFICADOR
+- cover-geometric-008: GEOMÉTRICA · SAND · PLANIFICADOR DIGITAL
+- cover-geometric-009: GEOMÉTRICA · NEUTRAL · MI PLANIFICADOR
+- cover-geometric-010: GEOMÉTRICA · LAVANDA · 2026 · 2027 · 2028
+- cover-geometric-011: GEOMÉTRICA · BLUSH · MIS PLANES
+- cover-geometric-012: GEOMÉTRICA · SAGE · MI AÑO
+- cover-geometric-013: GEOMÉTRICA · SKY · ORGANIZA · ENFÓCATE · AVANZA
+- cover-geometric-014: GEOMÉTRICA · SAND · YOYI’R
+- cover-geometric-015: GEOMÉTRICA · NEUTRAL · PLANIFICADOR
+- cover-geometric-016: GEOMÉTRICA · LAVANDA · PLANIFICADOR DIGITAL
+- cover-geometric-017: GEOMÉTRICA · BLUSH · MI PLANIFICADOR
+- cover-geometric-018: GEOMÉTRICA · SAGE · 2026 · 2027 · 2028
+- cover-geometric-019: GEOMÉTRICA · SKY · MIS PLANES
+- cover-geometric-020: GEOMÉTRICA · SAND · MI AÑO
+- cover-editorial-001: EDITORIAL · SKY · MI PLANIFICADOR
+- cover-editorial-002: EDITORIAL · SAND · 2026 · 2027 · 2028
+- cover-editorial-003: EDITORIAL · NEUTRAL · MIS PLANES
+- cover-editorial-004: EDITORIAL · LAVANDA · MI AÑO
+- cover-editorial-005: EDITORIAL · BLUSH · ORGANIZA · ENFÓCATE · AVANZA
+- cover-editorial-006: EDITORIAL · SAGE · YOYI’R
+- cover-editorial-007: EDITORIAL · SKY · PLANIFICADOR
+- cover-editorial-008: EDITORIAL · SAND · PLANIFICADOR DIGITAL
+- cover-editorial-009: EDITORIAL · NEUTRAL · MI PLANIFICADOR
+- cover-editorial-010: EDITORIAL · LAVANDA · 2026 · 2027 · 2028
+- cover-editorial-011: EDITORIAL · BLUSH · MIS PLANES
+- cover-editorial-012: EDITORIAL · SAGE · MI AÑO
+- cover-editorial-013: EDITORIAL · SKY · ORGANIZA · ENFÓCATE · AVANZA
+- cover-editorial-014: EDITORIAL · SAND · YOYI’R
+- cover-editorial-015: EDITORIAL · NEUTRAL · PLANIFICADOR
+- cover-editorial-016: EDITORIAL · LAVANDA · PLANIFICADOR DIGITAL
+- cover-editorial-017: EDITORIAL · BLUSH · MI PLANIFICADOR
+- cover-editorial-018: EDITORIAL · SAGE · 2026 · 2027 · 2028
+- cover-editorial-019: EDITORIAL · SKY · MIS PLANES
+- cover-editorial-020: EDITORIAL · SAND · MI AÑO
+- cover-texture-001: TEXTURA · BLUSH · PLANIFICADOR
+- cover-texture-002: TEXTURA · SAGE · PLANIFICADOR DIGITAL
+- cover-texture-003: TEXTURA · SKY · MI PLANIFICADOR
+- cover-texture-004: TEXTURA · SAND · 2026 · 2027 · 2028
+- cover-texture-005: TEXTURA · NEUTRAL · MIS PLANES
+- cover-texture-006: TEXTURA · LAVANDA · MI AÑO
+- cover-texture-007: TEXTURA · BLUSH · ORGANIZA · ENFÓCATE · AVANZA
+- cover-texture-008: TEXTURA · SAGE · YOYI’R
+- cover-texture-009: TEXTURA · SKY · PLANIFICADOR
+- cover-texture-010: TEXTURA · SAND · PLANIFICADOR DIGITAL
+- cover-texture-011: TEXTURA · NEUTRAL · MI PLANIFICADOR
+- cover-texture-012: TEXTURA · LAVANDA · 2026 · 2027 · 2028
+- cover-texture-013: TEXTURA · BLUSH · MIS PLANES
+- cover-texture-014: TEXTURA · SAGE · MI AÑO
+- cover-texture-015: TEXTURA · SKY · ORGANIZA · ENFÓCATE · AVANZA
+- cover-texture-016: TEXTURA · SAND · YOYI’R
+- cover-texture-017: TEXTURA · NEUTRAL · PLANIFICADOR
+- cover-texture-018: TEXTURA · LAVANDA · PLANIFICADOR DIGITAL
+- cover-texture-019: TEXTURA · BLUSH · MI PLANIFICADOR
+- cover-texture-020: TEXTURA · SAGE · 2026 · 2027 · 2028

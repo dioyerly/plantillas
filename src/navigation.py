@@ -16,9 +16,17 @@ class Navigation:
         self.destinations[key] = {'page':self.pages[page_id], 'fit':'FitR', 'bounds':list(bounds)}
 
     def link(self, canvas, source, target, label, bounds):
+        return self._link(canvas, source, target, label, bounds, True)
+
+    def link_small(self, canvas, source, target, label, bounds):
+        """Create a compact calendar-cell link; touch area is the printed date cell."""
+        return self._link(canvas, source, target, label, bounds, False)
+
+    def _link(self, canvas, source, target, label, bounds, enforce_target):
         from .config import HEIGHT, MIN_TARGET
         x,y,w,h = bounds
-        assert w >= MIN_TARGET and h >= MIN_TARGET, (label,w,h)
+        if enforce_target:
+            assert w >= MIN_TARGET and h >= MIN_TARGET, (label,w,h)
         canvas.linkAbsolute(label, target, Rect=(x,HEIGHT-y-h,x+w,HEIGHT-y), thickness=0)
         self.links.append({'source':self.pages[source], 'target':target, 'label':label, 'bounds':list(bounds)})
 

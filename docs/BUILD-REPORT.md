@@ -56,3 +56,79 @@ Comprobar especialmente legibilidad de calendarios anuales al ampliar y comodida
 ## Límite de fase
 
 Fase 2 no iniciada. La expansión a cientos de páginas, 150 portadas terminadas y 1600+ stickers dibujados requiere la siguiente aprobación.
+
+
+## FASE 2 — Planificador fechado completo 2026–2028
+
+Edición activa: español neutro internacional. La versión inglesa permanece reservada en `locales/en.json` y no se genera.
+
+| Métrica | Resultado |
+| --- | ---: |
+| Páginas totales | 1379 |
+| Páginas asociadas a 2026 | 457 |
+| Páginas asociadas a 2027 | 457 |
+| Páginas asociadas a 2028 | 458 |
+| Meses fechados | 36 |
+| Semanas | 157 |
+| Días | 1096 |
+| Enlaces internos | 11847 |
+| Enlaces rotos | 0 |
+| Errores de fecha | 0 |
+| Tamaño del archivo | 6125853 bytes |
+| Tiempo de generación | 16.17 s |
+
+El PDF final es `output/YOYIR-Planificador-Digital-2026-2028-ES.pdf`. Se generaron mediante código los 36 meses, todas las semanas de lunes a domingo y las 1.096 fechas diarias, incluido el 29 de febrero de 2028. Los números de día de los calendarios mensuales y los encabezados de las semanas son enlaces internos a sus páginas diarias.
+
+
+## FASE 3 — Biblioteca premium de plantillas
+
+{
+  "fase": "3",
+  "paginas_nuevas": 180,
+  "paginas_totales": 1559,
+  "plantillas_nuevas": 157,
+  "indices_nuevos": 14,
+  "hipervinculos_nuevos": 1504,
+  "hipervinculos_totales": 13351,
+  "enlaces_rotos": 0,
+  "tamano_bytes": 6795440,
+  "tiempo_generacion_segundos": 22.09
+}
+
+
+## FASE 6 — Biblioteca premium de stickers
+
+{
+  "fase": "6",
+  "disenos_base_unicos": 1203,
+  "variantes_color": 7218,
+  "total_png": 8421,
+  "categorias": 25,
+  "png_transparencia": 8421,
+  "png_error": 0,
+  "duplicados_exactos": 0,
+  "paginas_sticker_book": 28,
+  "enlaces_sticker_book": 161,
+  "enlaces_rotos": 0,
+  "tamano_biblioteca_bytes": 46950972,
+  "tiempo_generacion_segundos": 330.15
+}
+
+
+## FASE 7 — Sistema visual premium
+
+{
+  "fase": "7",
+  "temas_definidos": 6,
+  "portadas_totales": 150,
+  "disenos_unicos": 150,
+  "variantes": 0,
+  "divisores": 29,
+  "iconos": 11,
+  "elementos_decorativos": 7,
+  "paginas_master": 1595,
+  "hipervinculos_master": 13417,
+  "enlaces_rotos": 0,
+  "tamano_master": 7562345,
+  "tiempo_generacion_segundos": 12.43
+}

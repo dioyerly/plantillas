@@ -1,0 +1,22 @@
+{
+  "final": "C:\\Users\\Dio\\OneDrive\\Desktop\\plantillas\\final",
+  "elapsed_seconds": 53.51,
+  "statuses": {
+    "master": true,
+    "fechas": true,
+    "hipervinculos": true,
+    "plantillas": true,
+    "notebooks": true,
+    "stickers": true,
+    "sticker_book": true,
+    "portadas": true,
+    "idioma": true,
+    "movil": true,
+    "tablet": true,
+    "paquete": true
+  },
+  "master_pages": 1597,
+  "master_links": 13416,
+  "notebook_pages": 407,
+  "files": 8617
+}

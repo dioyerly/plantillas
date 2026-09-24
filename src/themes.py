@@ -9,6 +9,12 @@ class Theme:
     ink: str = '#363541'
     rule: str = '#CECCD3'
     paper: str = '#FFFFFF'
+    secondary: str = '#F3EFF5'
+    tab: str = '#E9E0F2'
+    divider: str = '#796487'
+    text_secondary: str = '#77727B'
+    button: str = '#E9E0F2'
+    highlight: str = '#F7F2FA'
 
 THEMES = {
     'lavender': Theme('LAVENDER', '#FBF9FD', '#E9E0F2', '#796487'),

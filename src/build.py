@@ -46,7 +46,37 @@ def main():
     parser=argparse.ArgumentParser(description="Build YOYI'R Phase 1 PDF assets")
     parser.add_argument('--theme',choices=list(THEMES),default='lavender')
     parser.add_argument('--output',type=str,default=str(OUTPUT))
+    parser.add_argument('--phase2',action='store_true',help='Genera el planificador fechado completo 2026–2028 en español')
+    parser.add_argument('--phase3',action='store_true',help='Agrega la biblioteca premium de plantillas al Master')
+    parser.add_argument('--phase5',action='store_true',help='Genera los seis cuadernos digitales y sus recursos')
+    parser.add_argument('--phase6',action='store_true',help='Genera la biblioteca premium de stickers y el Sticker Book')
+    parser.add_argument('--phase7',action='store_true',help='Genera portadas, temas y divisores visuales')
+    parser.add_argument('--phase8',action='store_true',help='Audita y ensambla la carpeta comercial final')
     args=parser.parse_args()
+    if args.phase8:
+        from .finalize import run
+        print(json.dumps(run(),ensure_ascii=False,indent=2))
+        return
+    if args.phase7:
+        from .phase7 import build_phase7
+        print(json.dumps(build_phase7(args.output),ensure_ascii=False,indent=2))
+        return
+    if args.phase6:
+        from .phase6 import build_phase6
+        print(json.dumps(build_phase6(args.output),ensure_ascii=False,indent=2))
+        return
+    if args.phase5:
+        from .phase5 import build_phase5
+        print(json.dumps(build_phase5(args.output),ensure_ascii=False,indent=2))
+        return
+    if args.phase3:
+        from .phase3 import build_phase3
+        print(json.dumps(build_phase3(args.output),ensure_ascii=False,indent=2))
+        return
+    if args.phase2:
+        from .phase2 import build_phase2
+        print(json.dumps(build_phase2(args.output),ensure_ascii=False,indent=2))
+        return
     out=ROOT/args.output
     out.mkdir(parents=True,exist_ok=True)
     DOCS.mkdir(parents=True,exist_ok=True)
