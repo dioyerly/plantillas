@@ -1,0 +1,20 @@
+PROBLEM BLOCKS AUDIT:
+======================================================================
+PAGES_6_19:
+  Visible nav: 15/15
+  Invisible nav: 0
+  Trapped: 0
+  Status: PASS
+
+PAGES_21_24:
+  Visible nav: 5/5
+  Invisible nav: 0
+  Trapped: 0
+  Status: PASS
+
+PAGES_36_169:
+  Visible nav: 135/135
+  Invisible nav: 0
+  Trapped: 0
+  Status: PASS
+

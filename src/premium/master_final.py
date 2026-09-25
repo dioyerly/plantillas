@@ -1,4 +1,4 @@
-"""MASTER FINAL: PORTADA + DASHBOARD + MENÚ + AÑOS + RECURSOS MEJORADOS + OBJETIVOS + DATED CORE = 1424 páginas"""
+"""MASTER FINAL: PORTADA + DASHBOARD + MENÚ + AÑOS + RECURSOS MEJORADOS + OBJETIVOS + DATED CORE = 1532 páginas"""
 import calendar
 from datetime import date
 import fitz
@@ -11,12 +11,48 @@ from .master_builder import dated_core_block, draw_block_page
 from .dated import BlockArt
 from .pages import cover, dashboard, menu, annual
 
+def add_shell_navigation_links(a, p):
+    """Add all hyperlinks for shell navigation (TOP, RIGHT, BOTTOM)."""
+    if p['id'] == 'portada':
+        return
+
+    # TOP NAVIGATION: INICIO | AÑO | MES | SEM | DÍA
+    a.link('dashboard', 48, 19, 80, 69, 'INICIO', minimum=0)
+
+    year = p.get('year', 2026)
+    a.link(f'year-{year}', 134, 19, 80, 69, 'AÑO', minimum=0)
+
+    month = p.get('month', 1)
+    month_id = f'm-{year}-{month:02d}'
+    a.link(month_id, 214, 19, 80, 69, 'MES', minimum=0)
+
+    a.link('semana', 294, 19, 80, 69, 'SEM', minimum=0)
+    a.link('dia', 374, 19, 80, 69, 'DÍA', minimum=0)
+
+    # RIGHT SIDE TABS (only if p['months'] is False)
+    if not p.get('months', False):
+        a.link('obj-div', 460, 160, 68, 92, 'METAS', minimum=0)
+        a.link('life-div', 460, 272, 68, 92, 'VIDA', minimum=0)
+        a.link('well-div', 460, 384, 68, 92, 'BIENESTAR', minimum=0)
+        a.link('fin-div', 460, 496, 68, 92, 'FINANZAS', minimum=0)
+        a.link('notes-div', 460, 608, 68, 92, 'NOTAS', minimum=0)
+        a.link('extras-div', 460, 720, 68, 92, 'EXTRAS', minimum=0)
+
+    # BOTTOM NAVIGATION: MENÚ | ANTERIOR | SIGUIENTE
+    a.link('menu', 58, 862, 112, 66, 'MENÚ', minimum=0)
+
+    previous = p.get('previous', 'dashboard')
+    a.link(previous, 184, 862, 122, 66, 'ANTERIOR', minimum=0)
+
+    next_page = p.get('next', 'dashboard')
+    a.link(next_page, 320, 862, 122, 66, 'SIGUIENTE', minimum=0)
+
 def annual_core_block():
     """Generate PORTADA, DASHBOARD, MENÚ, YEAR OVERVIEWS, RECURSOS MEJORADOS, QUARTERS."""
     pages = []
 
     pages.append({'id': 'portada', 'kind': 'portada', 'year': 2026, 'month': 1, 'months': False})
-    pages.append({'id': 'dashboard', 'kind': 'dashboard', 'year': 2026, 'month': 1, 'months': False})
+    pages.append({'id': 'dashboard', 'kind': 'dashboard', 'year': 2026, 'month': 1, 'months': False, 'active_tab': 'INICIO'})
     pages.append({'id': 'menu', 'kind': 'menu', 'year': 2026, 'month': 1, 'months': False})
     pages.append({'id': 'year-selector', 'kind': 'year-selector', 'year': 2026, 'month': 1, 'months': False})
 
@@ -233,8 +269,8 @@ def draw_resource_page(a, p):
     year = p['year']
     resource = p['resource']
 
-    a.box(0, 0, W, H, '#ECE8EF', r=0)
-    a.box(25, 65, 435, 867, '#F8F5F0', r=13)
+    # Shell is already rendered by digital_planner_shell()
+    # Don't redraw background boxes that will cover the navigation
     a.text(title, 60, 130, 18, 'Bold')
     a.text(f'{year}', 60, 155, 12)
 
@@ -593,8 +629,7 @@ def draw_annual_page(a, p):
     elif p['kind'] == 'annual':
         annual(a, p['year'])
     elif p['kind'] == 'quarter':
-        a.box(0, 0, W, H, '#ECE8EF', r=0)
-        a.box(25, 65, 435, 867, '#F8F5F0', r=13)
+        # Shell already rendered, don't redraw background
         a.text(f"TRIMESTRE {p['quarter']}", 60, 130, 18, 'Bold')
         a.text(p['months'], 60, 155, 12)
         a.lines(60, 250, 380, 4, 40)
@@ -662,6 +697,10 @@ def build_master_final():
         c.bookmarkPage(p['id'], fit='Fit')
         a = BlockArt(c, p['id'], nav, known)
 
+        # Apply premium planner shell (except portada)
+        if p['id'] != 'portada':
+            digital_planner_shell(a, p, i, len(all_pages))
+
         if p['kind'] == 'resource':
             draw_resource_page(a, p)
         elif p['kind'] in ('obj-divisor', 'obj-page'):
@@ -672,55 +711,46 @@ def build_master_final():
             a.link('obj-div', 260, 50, 140, 40, 'OBJETIVOS', minimum=0)
         elif p['kind'] in ('life-divisor', 'life-page'):
             draw_life_page(a, p)
-            # Global navigation for LIFE collection
             a.link('dashboard', 60, 50, 80, 40, 'INICIO', minimum=0)
             a.link('menu', 160, 50, 80, 40, 'MENÚ', minimum=0)
             a.link('life-div', 260, 50, 140, 40, 'VIDA', minimum=0)
         elif p['kind'] in ('prod-divisor', 'prod-page'):
             draw_productivity_page(a, p)
-            # Global navigation for PRODUCTIVITY collection
             a.link('dashboard', 60, 50, 80, 40, 'INICIO', minimum=0)
             a.link('menu', 160, 50, 80, 40, 'MENÚ', minimum=0)
             a.link('prod-div', 260, 50, 140, 40, 'PRODUCTIVIDAD', minimum=0)
         elif p['kind'] in ('well-divisor', 'well-page'):
             draw_wellness_page(a, p)
-            # Global navigation for WELLNESS collection
             a.link('dashboard', 60, 50, 80, 40, 'INICIO', minimum=0)
             a.link('menu', 160, 50, 80, 40, 'MENÚ', minimum=0)
             a.link('well-div', 260, 50, 140, 40, 'BIENESTAR', minimum=0)
         elif p['kind'] in ('self-divisor', 'self-page'):
             draw_selfcare_page(a, p)
-            # Global navigation for SELFCARE collection
             a.link('dashboard', 60, 50, 80, 40, 'INICIO', minimum=0)
             a.link('menu', 160, 50, 80, 40, 'MENÚ', minimum=0)
             a.link('self-div', 260, 50, 140, 40, 'AUTOCUIDADO', minimum=0)
         elif p['kind'] in ('fin-divisor', 'fin-page'):
             draw_finance_page(a, p)
-            # Global navigation for FINANCE collection
             a.link('dashboard', 60, 50, 80, 40, 'INICIO', minimum=0)
             a.link('menu', 160, 50, 80, 40, 'MENÚ', minimum=0)
             a.link('fin-div', 260, 50, 140, 40, 'FINANZAS', minimum=0)
         elif p['kind'] in ('study-divisor', 'study-page'):
             draw_study_page(a, p)
-            # Global navigation for STUDY collection
             a.link('dashboard', 60, 50, 80, 40, 'INICIO', minimum=0)
             a.link('menu', 160, 50, 80, 40, 'MENÚ', minimum=0)
             a.link('study-div', 260, 50, 140, 40, 'ESTUDIO', minimum=0)
         elif p['kind'] in ('org-divisor', 'org-page'):
             draw_organization_page(a, p)
-            # Global navigation for ORGANIZATION collection
             a.link('dashboard', 60, 50, 80, 40, 'INICIO', minimum=0)
             a.link('menu', 160, 50, 80, 40, 'MENÚ', minimum=0)
             a.link('org-div', 260, 50, 140, 40, 'ORGANIZACIÓN', minimum=0)
         elif p['kind'] in ('notes-divisor', 'notes-page'):
             draw_notes_page(a, p)
-            # Global navigation for NOTES collection
             a.link('dashboard', 60, 50, 80, 40, 'INICIO', minimum=0)
             a.link('menu', 160, 50, 80, 40, 'MENÚ', minimum=0)
             a.link('notes-div', 260, 50, 140, 40, 'NOTAS', minimum=0)
         elif p['kind'] in ('extras-divisor', 'extras-page'):
             draw_extras_page(a, p)
-            # Global navigation for EXTRAS collection
             a.link('dashboard', 60, 50, 80, 40, 'INICIO', minimum=0)
             a.link('menu', 160, 50, 80, 40, 'MENÚ', minimum=0)
             a.link('extras-div', 260, 50, 140, 40, 'EXTRAS', minimum=0)

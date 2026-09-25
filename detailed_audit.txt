@@ -1,0 +1,37 @@
+DETAILED PAGE INSPECTION:
+======================================================================
+Found "Papelitos y notas" at page 168
+
+PAGE CONTENT (first 500 chars):
+INICIO
+AÑO
+MES
+SEM
+DÍA
+METAS
+VIDA
+BIENESTAR
+FINANZAS
+NOTAS
+EXTRAS
+MENÚ
+ANTERIOR
+SIGUIENTE
+YOYI'R
+168 / 1532
+Papelitos y notas
+FORMAS ESPECIALES
+
+
+LINK ANALYSIS:
+  Total annotations: 7
+  Link 1: /Link
+  Link 2: /Link
+  Link 3: /Link
+  Link 4: /Link
+  Link 5: /Link
+
+======================================================================
+EXTRAS COLLECTION PAGES:
+Found 156 pages with EXTRAS/extras
+  First 10: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]

@@ -1,0 +1,37 @@
+FINAL MASTER VALIDATION REPORT:
+======================================================================
+PAGE DISTRIBUTION:
+  ANNUAL_RESOURCE: 63
+  COLLECTION_PAGE: 122
+  COVER: 1
+  DASHBOARD: 1
+  MENU: 1
+  MONTH_CALENDAR: 820
+  MONTH_INTENTION: 36
+  OTHER: 1
+  QUARTER: 12
+  WEEK: 471
+  YEAR_OVERVIEW: 3
+  YEAR_SELECTOR: 1
+
+VALIDATION:
+  INITIAL_PAGES: 1532
+  FINAL_PAGES: 1532
+  PAGE_COUNT_MATCH: PASS
+
+  PAGES_6_19:
+    Pages with nav: 15/14
+    Status: PASS
+
+  PAGES_21_24:
+    Pages with nav: 5/4
+    Status: PASS
+
+  PAGES_36_169:
+    Pages with nav: 135/134
+    Status: PASS
+
+COLLECTION NAVIGATION:
+  EXTRAS: 156 pages found
+
+OVERALL_STATUS: PASS

@@ -1,0 +1,6063 @@
+[
+  {
+    "source": "portada",
+    "target": "inicio",
+    "rect": [
+      141,
+      726,
+      391,
+      798
+    ],
+    "label": "ABRIR MI AGENDA"
+  },
+  {
+    "source": "inicio",
+    "target": "inicio",
+    "rect": [
+      48,
+      19,
+      128,
+      88
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "inicio",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "inicio",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "inicio",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "inicio",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "inicio",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "inicio",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "inicio",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "inicio",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "inicio",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "inicio",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "inicio",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "inicio",
+    "target": "portada",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "inicio",
+    "target": "menu",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "inicio",
+    "target": "year-2026",
+    "rect": [
+      58,
+      201,
+      180,
+      267
+    ],
+    "label": "2026"
+  },
+  {
+    "source": "inicio",
+    "target": "year-2027",
+    "rect": [
+      188,
+      201,
+      310,
+      267
+    ],
+    "label": "2027"
+  },
+  {
+    "source": "inicio",
+    "target": "year-2028",
+    "rect": [
+      318,
+      201,
+      440,
+      267
+    ],
+    "label": "2028"
+  },
+  {
+    "source": "inicio",
+    "target": "sin-fecha",
+    "rect": [
+      58,
+      282,
+      220,
+      348
+    ],
+    "label": "SIN FECHA"
+  },
+  {
+    "source": "inicio",
+    "target": "objetivos",
+    "rect": [
+      58,
+      374,
+      294,
+      528
+    ],
+    "label": "OBJETIVOS"
+  },
+  {
+    "source": "inicio",
+    "target": "vida",
+    "rect": [
+      309,
+      374,
+      442,
+      528
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "inicio",
+    "target": "bienestar",
+    "rect": [
+      58,
+      545,
+      191,
+      684
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "inicio",
+    "target": "productividad",
+    "rect": [
+      207,
+      545,
+      442,
+      684
+    ],
+    "label": "PRODUCTIVIDAD"
+  },
+  {
+    "source": "inicio",
+    "target": "finanzas",
+    "rect": [
+      58,
+      700,
+      242,
+      766
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "inicio",
+    "target": "estudio",
+    "rect": [
+      258,
+      700,
+      442,
+      766
+    ],
+    "label": "ESTUDIO"
+  },
+  {
+    "source": "inicio",
+    "target": "notas",
+    "rect": [
+      58,
+      773,
+      242,
+      839
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "inicio",
+    "target": "extras",
+    "rect": [
+      258,
+      773,
+      442,
+      839
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "menu",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "menu",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "menu",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "menu",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "menu",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "menu",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "menu",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "menu",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "menu",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "menu",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "menu",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "menu",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "menu",
+    "target": "inicio",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "menu",
+    "target": "year-2026",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "menu",
+    "target": "objetivos",
+    "rect": [
+      58,
+      200,
+      442,
+      264
+    ],
+    "label": "OBJETIVOS"
+  },
+  {
+    "source": "menu",
+    "target": "vida",
+    "rect": [
+      58,
+      264,
+      442,
+      328
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "menu",
+    "target": "productividad",
+    "rect": [
+      58,
+      328,
+      442,
+      392
+    ],
+    "label": "PRODUCTIVIDAD"
+  },
+  {
+    "source": "menu",
+    "target": "bienestar",
+    "rect": [
+      58,
+      392,
+      442,
+      456
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "menu",
+    "target": "autocuidado",
+    "rect": [
+      58,
+      456,
+      442,
+      520
+    ],
+    "label": "AUTOCUIDADO"
+  },
+  {
+    "source": "menu",
+    "target": "finanzas",
+    "rect": [
+      58,
+      520,
+      442,
+      584
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "menu",
+    "target": "estudio",
+    "rect": [
+      58,
+      584,
+      442,
+      648
+    ],
+    "label": "ESTUDIO"
+  },
+  {
+    "source": "menu",
+    "target": "organizacion",
+    "rect": [
+      58,
+      648,
+      442,
+      712
+    ],
+    "label": "ORGANIZACIÓN"
+  },
+  {
+    "source": "menu",
+    "target": "notas",
+    "rect": [
+      58,
+      712,
+      442,
+      776
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "menu",
+    "target": "extras",
+    "rect": [
+      58,
+      776,
+      442,
+      840
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "year-2026",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "year-2026",
+    "target": "year-2026",
+    "rect": [
+      134,
+      19,
+      214,
+      88
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "year-2026",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "year-2026",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "year-2026",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "year-2026",
+    "target": "enero",
+    "rect": [
+      460,
+      96,
+      528,
+      160
+    ],
+    "label": "ENE"
+  },
+  {
+    "source": "year-2026",
+    "target": "m-2026-02",
+    "rect": [
+      460,
+      164,
+      528,
+      228
+    ],
+    "label": "FEB"
+  },
+  {
+    "source": "year-2026",
+    "target": "mes",
+    "rect": [
+      460,
+      232,
+      528,
+      296
+    ],
+    "label": "MAR"
+  },
+  {
+    "source": "year-2026",
+    "target": "m-2026-04",
+    "rect": [
+      460,
+      300,
+      528,
+      364
+    ],
+    "label": "ABR"
+  },
+  {
+    "source": "year-2026",
+    "target": "m-2026-05",
+    "rect": [
+      460,
+      368,
+      528,
+      432
+    ],
+    "label": "MAY"
+  },
+  {
+    "source": "year-2026",
+    "target": "m-2026-06",
+    "rect": [
+      460,
+      436,
+      528,
+      500
+    ],
+    "label": "JUN"
+  },
+  {
+    "source": "year-2026",
+    "target": "m-2026-07",
+    "rect": [
+      460,
+      504,
+      528,
+      568
+    ],
+    "label": "JUL"
+  },
+  {
+    "source": "year-2026",
+    "target": "m-2026-08",
+    "rect": [
+      460,
+      572,
+      528,
+      636
+    ],
+    "label": "AGO"
+  },
+  {
+    "source": "year-2026",
+    "target": "m-2026-09",
+    "rect": [
+      460,
+      640,
+      528,
+      704
+    ],
+    "label": "SEP"
+  },
+  {
+    "source": "year-2026",
+    "target": "m-2026-10",
+    "rect": [
+      460,
+      708,
+      528,
+      772
+    ],
+    "label": "OCT"
+  },
+  {
+    "source": "year-2026",
+    "target": "m-2026-11",
+    "rect": [
+      460,
+      776,
+      528,
+      840
+    ],
+    "label": "NOV"
+  },
+  {
+    "source": "year-2026",
+    "target": "m-2026-12",
+    "rect": [
+      460,
+      844,
+      528,
+      908
+    ],
+    "label": "DIC"
+  },
+  {
+    "source": "year-2026",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "year-2026",
+    "target": "menu",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "year-2026",
+    "target": "enero",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "enero",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "enero",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "enero",
+    "target": "enero",
+    "rect": [
+      220,
+      19,
+      300,
+      88
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "enero",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "enero",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "enero",
+    "target": "enero",
+    "rect": [
+      456,
+      96,
+      528,
+      160
+    ],
+    "label": "ENE"
+  },
+  {
+    "source": "enero",
+    "target": "m-2026-02",
+    "rect": [
+      460,
+      164,
+      528,
+      228
+    ],
+    "label": "FEB"
+  },
+  {
+    "source": "enero",
+    "target": "mes",
+    "rect": [
+      460,
+      232,
+      528,
+      296
+    ],
+    "label": "MAR"
+  },
+  {
+    "source": "enero",
+    "target": "m-2026-04",
+    "rect": [
+      460,
+      300,
+      528,
+      364
+    ],
+    "label": "ABR"
+  },
+  {
+    "source": "enero",
+    "target": "m-2026-05",
+    "rect": [
+      460,
+      368,
+      528,
+      432
+    ],
+    "label": "MAY"
+  },
+  {
+    "source": "enero",
+    "target": "m-2026-06",
+    "rect": [
+      460,
+      436,
+      528,
+      500
+    ],
+    "label": "JUN"
+  },
+  {
+    "source": "enero",
+    "target": "m-2026-07",
+    "rect": [
+      460,
+      504,
+      528,
+      568
+    ],
+    "label": "JUL"
+  },
+  {
+    "source": "enero",
+    "target": "m-2026-08",
+    "rect": [
+      460,
+      572,
+      528,
+      636
+    ],
+    "label": "AGO"
+  },
+  {
+    "source": "enero",
+    "target": "m-2026-09",
+    "rect": [
+      460,
+      640,
+      528,
+      704
+    ],
+    "label": "SEP"
+  },
+  {
+    "source": "enero",
+    "target": "m-2026-10",
+    "rect": [
+      460,
+      708,
+      528,
+      772
+    ],
+    "label": "OCT"
+  },
+  {
+    "source": "enero",
+    "target": "m-2026-11",
+    "rect": [
+      460,
+      776,
+      528,
+      840
+    ],
+    "label": "NOV"
+  },
+  {
+    "source": "enero",
+    "target": "m-2026-12",
+    "rect": [
+      460,
+      844,
+      528,
+      908
+    ],
+    "label": "DIC"
+  },
+  {
+    "source": "enero",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "enero",
+    "target": "year-2026",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "enero",
+    "target": "febrero",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "febrero",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "febrero",
+    "target": "year-2028",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "febrero",
+    "target": "febrero",
+    "rect": [
+      220,
+      19,
+      300,
+      88
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "febrero",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "febrero",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-01",
+    "rect": [
+      460,
+      96,
+      528,
+      160
+    ],
+    "label": "ENE"
+  },
+  {
+    "source": "febrero",
+    "target": "febrero",
+    "rect": [
+      456,
+      164,
+      528,
+      228
+    ],
+    "label": "FEB"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-03",
+    "rect": [
+      460,
+      232,
+      528,
+      296
+    ],
+    "label": "MAR"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-04",
+    "rect": [
+      460,
+      300,
+      528,
+      364
+    ],
+    "label": "ABR"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-05",
+    "rect": [
+      460,
+      368,
+      528,
+      432
+    ],
+    "label": "MAY"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-06",
+    "rect": [
+      460,
+      436,
+      528,
+      500
+    ],
+    "label": "JUN"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-07",
+    "rect": [
+      460,
+      504,
+      528,
+      568
+    ],
+    "label": "JUL"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-08",
+    "rect": [
+      460,
+      572,
+      528,
+      636
+    ],
+    "label": "AGO"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-09",
+    "rect": [
+      460,
+      640,
+      528,
+      704
+    ],
+    "label": "SEP"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-10",
+    "rect": [
+      460,
+      708,
+      528,
+      772
+    ],
+    "label": "OCT"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-11",
+    "rect": [
+      460,
+      776,
+      528,
+      840
+    ],
+    "label": "NOV"
+  },
+  {
+    "source": "febrero",
+    "target": "m-2028-12",
+    "rect": [
+      460,
+      844,
+      528,
+      908
+    ],
+    "label": "DIC"
+  },
+  {
+    "source": "febrero",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "febrero",
+    "target": "enero",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "febrero",
+    "target": "mes",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "mes",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "mes",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "mes",
+    "target": "mes",
+    "rect": [
+      220,
+      19,
+      300,
+      88
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "mes",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "mes",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "mes",
+    "target": "enero",
+    "rect": [
+      460,
+      96,
+      528,
+      160
+    ],
+    "label": "ENE"
+  },
+  {
+    "source": "mes",
+    "target": "m-2026-02",
+    "rect": [
+      460,
+      164,
+      528,
+      228
+    ],
+    "label": "FEB"
+  },
+  {
+    "source": "mes",
+    "target": "mes",
+    "rect": [
+      456,
+      232,
+      528,
+      296
+    ],
+    "label": "MAR"
+  },
+  {
+    "source": "mes",
+    "target": "m-2026-04",
+    "rect": [
+      460,
+      300,
+      528,
+      364
+    ],
+    "label": "ABR"
+  },
+  {
+    "source": "mes",
+    "target": "m-2026-05",
+    "rect": [
+      460,
+      368,
+      528,
+      432
+    ],
+    "label": "MAY"
+  },
+  {
+    "source": "mes",
+    "target": "m-2026-06",
+    "rect": [
+      460,
+      436,
+      528,
+      500
+    ],
+    "label": "JUN"
+  },
+  {
+    "source": "mes",
+    "target": "m-2026-07",
+    "rect": [
+      460,
+      504,
+      528,
+      568
+    ],
+    "label": "JUL"
+  },
+  {
+    "source": "mes",
+    "target": "m-2026-08",
+    "rect": [
+      460,
+      572,
+      528,
+      636
+    ],
+    "label": "AGO"
+  },
+  {
+    "source": "mes",
+    "target": "m-2026-09",
+    "rect": [
+      460,
+      640,
+      528,
+      704
+    ],
+    "label": "SEP"
+  },
+  {
+    "source": "mes",
+    "target": "m-2026-10",
+    "rect": [
+      460,
+      708,
+      528,
+      772
+    ],
+    "label": "OCT"
+  },
+  {
+    "source": "mes",
+    "target": "m-2026-11",
+    "rect": [
+      460,
+      776,
+      528,
+      840
+    ],
+    "label": "NOV"
+  },
+  {
+    "source": "mes",
+    "target": "m-2026-12",
+    "rect": [
+      460,
+      844,
+      528,
+      908
+    ],
+    "label": "DIC"
+  },
+  {
+    "source": "mes",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "mes",
+    "target": "febrero",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "mes",
+    "target": "calendario",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "mes",
+    "target": "calendario",
+    "rect": [
+      104,
+      765,
+      396,
+      835
+    ],
+    "label": "ABRIR MI MES"
+  },
+  {
+    "source": "calendario",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "calendario",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "calendario",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "calendario",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "calendario",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "calendario",
+    "target": "enero",
+    "rect": [
+      460,
+      96,
+      528,
+      160
+    ],
+    "label": "ENE"
+  },
+  {
+    "source": "calendario",
+    "target": "m-2026-02",
+    "rect": [
+      460,
+      164,
+      528,
+      228
+    ],
+    "label": "FEB"
+  },
+  {
+    "source": "calendario",
+    "target": "mes",
+    "rect": [
+      456,
+      232,
+      528,
+      296
+    ],
+    "label": "MAR"
+  },
+  {
+    "source": "calendario",
+    "target": "m-2026-04",
+    "rect": [
+      460,
+      300,
+      528,
+      364
+    ],
+    "label": "ABR"
+  },
+  {
+    "source": "calendario",
+    "target": "m-2026-05",
+    "rect": [
+      460,
+      368,
+      528,
+      432
+    ],
+    "label": "MAY"
+  },
+  {
+    "source": "calendario",
+    "target": "m-2026-06",
+    "rect": [
+      460,
+      436,
+      528,
+      500
+    ],
+    "label": "JUN"
+  },
+  {
+    "source": "calendario",
+    "target": "m-2026-07",
+    "rect": [
+      460,
+      504,
+      528,
+      568
+    ],
+    "label": "JUL"
+  },
+  {
+    "source": "calendario",
+    "target": "m-2026-08",
+    "rect": [
+      460,
+      572,
+      528,
+      636
+    ],
+    "label": "AGO"
+  },
+  {
+    "source": "calendario",
+    "target": "m-2026-09",
+    "rect": [
+      460,
+      640,
+      528,
+      704
+    ],
+    "label": "SEP"
+  },
+  {
+    "source": "calendario",
+    "target": "m-2026-10",
+    "rect": [
+      460,
+      708,
+      528,
+      772
+    ],
+    "label": "OCT"
+  },
+  {
+    "source": "calendario",
+    "target": "m-2026-11",
+    "rect": [
+      460,
+      776,
+      528,
+      840
+    ],
+    "label": "NOV"
+  },
+  {
+    "source": "calendario",
+    "target": "m-2026-12",
+    "rect": [
+      460,
+      844,
+      528,
+      908
+    ],
+    "label": "DIC"
+  },
+  {
+    "source": "calendario",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "calendario",
+    "target": "mes",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "calendario",
+    "target": "plan-mes",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "plan-mes",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "plan-mes",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "plan-mes",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "plan-mes",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "plan-mes",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "plan-mes",
+    "target": "enero",
+    "rect": [
+      460,
+      96,
+      528,
+      160
+    ],
+    "label": "ENE"
+  },
+  {
+    "source": "plan-mes",
+    "target": "m-2026-02",
+    "rect": [
+      460,
+      164,
+      528,
+      228
+    ],
+    "label": "FEB"
+  },
+  {
+    "source": "plan-mes",
+    "target": "mes",
+    "rect": [
+      456,
+      232,
+      528,
+      296
+    ],
+    "label": "MAR"
+  },
+  {
+    "source": "plan-mes",
+    "target": "m-2026-04",
+    "rect": [
+      460,
+      300,
+      528,
+      364
+    ],
+    "label": "ABR"
+  },
+  {
+    "source": "plan-mes",
+    "target": "m-2026-05",
+    "rect": [
+      460,
+      368,
+      528,
+      432
+    ],
+    "label": "MAY"
+  },
+  {
+    "source": "plan-mes",
+    "target": "m-2026-06",
+    "rect": [
+      460,
+      436,
+      528,
+      500
+    ],
+    "label": "JUN"
+  },
+  {
+    "source": "plan-mes",
+    "target": "m-2026-07",
+    "rect": [
+      460,
+      504,
+      528,
+      568
+    ],
+    "label": "JUL"
+  },
+  {
+    "source": "plan-mes",
+    "target": "m-2026-08",
+    "rect": [
+      460,
+      572,
+      528,
+      636
+    ],
+    "label": "AGO"
+  },
+  {
+    "source": "plan-mes",
+    "target": "m-2026-09",
+    "rect": [
+      460,
+      640,
+      528,
+      704
+    ],
+    "label": "SEP"
+  },
+  {
+    "source": "plan-mes",
+    "target": "m-2026-10",
+    "rect": [
+      460,
+      708,
+      528,
+      772
+    ],
+    "label": "OCT"
+  },
+  {
+    "source": "plan-mes",
+    "target": "m-2026-11",
+    "rect": [
+      460,
+      776,
+      528,
+      840
+    ],
+    "label": "NOV"
+  },
+  {
+    "source": "plan-mes",
+    "target": "m-2026-12",
+    "rect": [
+      460,
+      844,
+      528,
+      908
+    ],
+    "label": "DIC"
+  },
+  {
+    "source": "plan-mes",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "plan-mes",
+    "target": "calendario",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "plan-mes",
+    "target": "semana",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "semana",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "semana",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "semana",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "semana",
+    "target": "semana",
+    "rect": [
+      306,
+      19,
+      386,
+      88
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "semana",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "semana",
+    "target": "enero",
+    "rect": [
+      460,
+      96,
+      528,
+      160
+    ],
+    "label": "ENE"
+  },
+  {
+    "source": "semana",
+    "target": "m-2026-02",
+    "rect": [
+      460,
+      164,
+      528,
+      228
+    ],
+    "label": "FEB"
+  },
+  {
+    "source": "semana",
+    "target": "mes",
+    "rect": [
+      456,
+      232,
+      528,
+      296
+    ],
+    "label": "MAR"
+  },
+  {
+    "source": "semana",
+    "target": "m-2026-04",
+    "rect": [
+      460,
+      300,
+      528,
+      364
+    ],
+    "label": "ABR"
+  },
+  {
+    "source": "semana",
+    "target": "m-2026-05",
+    "rect": [
+      460,
+      368,
+      528,
+      432
+    ],
+    "label": "MAY"
+  },
+  {
+    "source": "semana",
+    "target": "m-2026-06",
+    "rect": [
+      460,
+      436,
+      528,
+      500
+    ],
+    "label": "JUN"
+  },
+  {
+    "source": "semana",
+    "target": "m-2026-07",
+    "rect": [
+      460,
+      504,
+      528,
+      568
+    ],
+    "label": "JUL"
+  },
+  {
+    "source": "semana",
+    "target": "m-2026-08",
+    "rect": [
+      460,
+      572,
+      528,
+      636
+    ],
+    "label": "AGO"
+  },
+  {
+    "source": "semana",
+    "target": "m-2026-09",
+    "rect": [
+      460,
+      640,
+      528,
+      704
+    ],
+    "label": "SEP"
+  },
+  {
+    "source": "semana",
+    "target": "m-2026-10",
+    "rect": [
+      460,
+      708,
+      528,
+      772
+    ],
+    "label": "OCT"
+  },
+  {
+    "source": "semana",
+    "target": "m-2026-11",
+    "rect": [
+      460,
+      776,
+      528,
+      840
+    ],
+    "label": "NOV"
+  },
+  {
+    "source": "semana",
+    "target": "m-2026-12",
+    "rect": [
+      460,
+      844,
+      528,
+      908
+    ],
+    "label": "DIC"
+  },
+  {
+    "source": "semana",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "semana",
+    "target": "plan-mes",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "semana",
+    "target": "dia",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "dia",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "dia",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "dia",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "dia",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "dia",
+    "target": "dia",
+    "rect": [
+      392,
+      19,
+      472,
+      88
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "dia",
+    "target": "enero",
+    "rect": [
+      460,
+      96,
+      528,
+      160
+    ],
+    "label": "ENE"
+  },
+  {
+    "source": "dia",
+    "target": "m-2026-02",
+    "rect": [
+      460,
+      164,
+      528,
+      228
+    ],
+    "label": "FEB"
+  },
+  {
+    "source": "dia",
+    "target": "mes",
+    "rect": [
+      456,
+      232,
+      528,
+      296
+    ],
+    "label": "MAR"
+  },
+  {
+    "source": "dia",
+    "target": "m-2026-04",
+    "rect": [
+      460,
+      300,
+      528,
+      364
+    ],
+    "label": "ABR"
+  },
+  {
+    "source": "dia",
+    "target": "m-2026-05",
+    "rect": [
+      460,
+      368,
+      528,
+      432
+    ],
+    "label": "MAY"
+  },
+  {
+    "source": "dia",
+    "target": "m-2026-06",
+    "rect": [
+      460,
+      436,
+      528,
+      500
+    ],
+    "label": "JUN"
+  },
+  {
+    "source": "dia",
+    "target": "m-2026-07",
+    "rect": [
+      460,
+      504,
+      528,
+      568
+    ],
+    "label": "JUL"
+  },
+  {
+    "source": "dia",
+    "target": "m-2026-08",
+    "rect": [
+      460,
+      572,
+      528,
+      636
+    ],
+    "label": "AGO"
+  },
+  {
+    "source": "dia",
+    "target": "m-2026-09",
+    "rect": [
+      460,
+      640,
+      528,
+      704
+    ],
+    "label": "SEP"
+  },
+  {
+    "source": "dia",
+    "target": "m-2026-10",
+    "rect": [
+      460,
+      708,
+      528,
+      772
+    ],
+    "label": "OCT"
+  },
+  {
+    "source": "dia",
+    "target": "m-2026-11",
+    "rect": [
+      460,
+      776,
+      528,
+      840
+    ],
+    "label": "NOV"
+  },
+  {
+    "source": "dia",
+    "target": "m-2026-12",
+    "rect": [
+      460,
+      844,
+      528,
+      908
+    ],
+    "label": "DIC"
+  },
+  {
+    "source": "dia",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "dia",
+    "target": "semana",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "dia",
+    "target": "objetivos",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "objetivos",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "objetivos",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "objetivos",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "objetivos",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "objetivos",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "objetivos",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "objetivos",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "objetivos",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "objetivos",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "objetivos",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "objetivos",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "objetivos",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "objetivos",
+    "target": "dia",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "objetivos",
+    "target": "smart",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "objetivos",
+    "target": "smart-vision",
+    "rect": [
+      58,
+      588,
+      242,
+      654
+    ],
+    "label": "VISIÓN"
+  },
+  {
+    "source": "objetivos",
+    "target": "smart-metas",
+    "rect": [
+      258,
+      588,
+      442,
+      654
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "objetivos",
+    "target": "smart-accion",
+    "rect": [
+      58,
+      668,
+      242,
+      734
+    ],
+    "label": "PLAN DE ACCIÓN"
+  },
+  {
+    "source": "objetivos",
+    "target": "smart-progreso",
+    "rect": [
+      258,
+      668,
+      442,
+      734
+    ],
+    "label": "PROGRESO"
+  },
+  {
+    "source": "objetivos",
+    "target": "smart-revision",
+    "rect": [
+      158,
+      748,
+      342,
+      814
+    ],
+    "label": "REVISIÓN"
+  },
+  {
+    "source": "smart",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "smart",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "smart",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "smart",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "smart",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "smart",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "smart",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "smart",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "smart",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "smart",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "smart",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "smart",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "smart",
+    "target": "objetivos",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "smart",
+    "target": "vida",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "vida",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "vida",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "vida",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "vida",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "vida",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "vida",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "vida",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "vida",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "vida",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "vida",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "vida",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "vida",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "vida",
+    "target": "smart",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "vida",
+    "target": "mi-vida",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "vida",
+    "target": "mi-vida",
+    "rect": [
+      82,
+      605,
+      418,
+      677
+    ],
+    "label": "MI TABLERO"
+  },
+  {
+    "source": "vida",
+    "target": "mi-vida",
+    "rect": [
+      82,
+      697,
+      418,
+      769
+    ],
+    "label": "SUEÑOS & AVENTURAS"
+  },
+  {
+    "source": "mi-vida",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "mi-vida",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "mi-vida",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "mi-vida",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "mi-vida",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "mi-vida",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "mi-vida",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "mi-vida",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "mi-vida",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "mi-vida",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "mi-vida",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "mi-vida",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "mi-vida",
+    "target": "vida",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "mi-vida",
+    "target": "productividad",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "productividad",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "productividad",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "productividad",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "productividad",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "productividad",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "productividad",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "productividad",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "productividad",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "productividad",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "productividad",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "productividad",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "productividad",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "productividad",
+    "target": "mi-vida",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "productividad",
+    "target": "plan-productividad",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "productividad",
+    "target": "plan-productividad",
+    "rect": [
+      82,
+      605,
+      418,
+      677
+    ],
+    "label": "MI PLAN DE FOCO"
+  },
+  {
+    "source": "productividad",
+    "target": "plan-productividad",
+    "rect": [
+      82,
+      697,
+      418,
+      769
+    ],
+    "label": "PRIORIDADES"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "productividad",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "plan-productividad",
+    "target": "bienestar",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "bienestar",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "bienestar",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "bienestar",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "bienestar",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "bienestar",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "bienestar",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "bienestar",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "bienestar",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "bienestar",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "bienestar",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "bienestar",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "bienestar",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "bienestar",
+    "target": "plan-productividad",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "bienestar",
+    "target": "tracker",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "bienestar",
+    "target": "tracker",
+    "rect": [
+      82,
+      605,
+      418,
+      677
+    ],
+    "label": "MI SEMANA"
+  },
+  {
+    "source": "bienestar",
+    "target": "autocuidado",
+    "rect": [
+      82,
+      697,
+      418,
+      769
+    ],
+    "label": "MI AUTOCUIDADO"
+  },
+  {
+    "source": "tracker",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "tracker",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "tracker",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "tracker",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "tracker",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "tracker",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "tracker",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "tracker",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "tracker",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "tracker",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "tracker",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "tracker",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "tracker",
+    "target": "bienestar",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "tracker",
+    "target": "autocuidado",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "autocuidado",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "autocuidado",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "autocuidado",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "autocuidado",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "autocuidado",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "autocuidado",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "autocuidado",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "autocuidado",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "autocuidado",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "autocuidado",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "autocuidado",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "autocuidado",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "autocuidado",
+    "target": "tracker",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "autocuidado",
+    "target": "finanzas",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "finanzas",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "finanzas",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "finanzas",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "finanzas",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "finanzas",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "finanzas",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "finanzas",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "finanzas",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "finanzas",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "finanzas",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "finanzas",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "finanzas",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "finanzas",
+    "target": "autocuidado",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "finanzas",
+    "target": "presupuesto",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "finanzas",
+    "target": "presupuesto",
+    "rect": [
+      82,
+      605,
+      418,
+      677
+    ],
+    "label": "MI PRESUPUESTO"
+  },
+  {
+    "source": "finanzas",
+    "target": "presupuesto",
+    "rect": [
+      82,
+      697,
+      418,
+      769
+    ],
+    "label": "AHORRO & FACTURAS"
+  },
+  {
+    "source": "presupuesto",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "presupuesto",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "presupuesto",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "presupuesto",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "presupuesto",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "presupuesto",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "presupuesto",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "presupuesto",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "presupuesto",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "presupuesto",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "presupuesto",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "presupuesto",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "presupuesto",
+    "target": "finanzas",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "presupuesto",
+    "target": "estudio",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "estudio",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "estudio",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "estudio",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "estudio",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "estudio",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "estudio",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "estudio",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "estudio",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "estudio",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "estudio",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "estudio",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "estudio",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "estudio",
+    "target": "presupuesto",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "estudio",
+    "target": "plan-estudio",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "estudio",
+    "target": "plan-estudio",
+    "rect": [
+      82,
+      605,
+      418,
+      677
+    ],
+    "label": "PLAN DE ESTUDIO"
+  },
+  {
+    "source": "estudio",
+    "target": "notas",
+    "rect": [
+      82,
+      697,
+      418,
+      769
+    ],
+    "label": "MIS APUNTES"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "estudio",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "plan-estudio",
+    "target": "organizacion",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "organizacion",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "organizacion",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "organizacion",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "organizacion",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "organizacion",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "organizacion",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "organizacion",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "organizacion",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "organizacion",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "organizacion",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "organizacion",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "organizacion",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "organizacion",
+    "target": "plan-estudio",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "organizacion",
+    "target": "notas",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "notas",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "notas",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "notas",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "notas",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "notas",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "notas",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "notas",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "notas",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "notas",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "notas",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "notas",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "notas",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "notas",
+    "target": "organizacion",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "notas",
+    "target": "extras",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "extras",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "extras",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "extras",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "extras",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "extras",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "extras",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "extras",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "extras",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "extras",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "extras",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "extras",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "extras",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "extras",
+    "target": "notas",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "extras",
+    "target": "funcionales",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "extras",
+    "target": "funcionales",
+    "rect": [
+      70,
+      475,
+      430,
+      555
+    ],
+    "label": "STICKERS FUNCIONALES"
+  },
+  {
+    "source": "extras",
+    "target": "stickers-vida",
+    "rect": [
+      70,
+      579,
+      430,
+      659
+    ],
+    "label": "STICKERS DE VIDA"
+  },
+  {
+    "source": "extras",
+    "target": "notas",
+    "rect": [
+      70,
+      683,
+      430,
+      763
+    ],
+    "label": "MI PÁGINA DE NOTAS"
+  },
+  {
+    "source": "funcionales",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "funcionales",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "funcionales",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "funcionales",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "funcionales",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "funcionales",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "funcionales",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "funcionales",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "funcionales",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "funcionales",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "funcionales",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "funcionales",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "funcionales",
+    "target": "extras",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "funcionales",
+    "target": "stickers-vida",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "funcionales",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "stickers-vida",
+    "target": "cierre",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "cierre",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "cierre",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "cierre",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "cierre",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "cierre",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "cierre",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "cierre",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "cierre",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "cierre",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "cierre",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "cierre",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "cierre",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "cierre",
+    "target": "stickers-vida",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "cierre",
+    "target": "year-2027",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "cierre",
+    "target": "inicio",
+    "rect": [
+      89,
+      747,
+      411,
+      823
+    ],
+    "label": "VOLVER A MI AGENDA"
+  },
+  {
+    "source": "year-2027",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "year-2027",
+    "target": "year-2027",
+    "rect": [
+      134,
+      19,
+      214,
+      88
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-03",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "year-2027",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "year-2027",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-01",
+    "rect": [
+      460,
+      96,
+      528,
+      160
+    ],
+    "label": "ENE"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-02",
+    "rect": [
+      460,
+      164,
+      528,
+      228
+    ],
+    "label": "FEB"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-03",
+    "rect": [
+      460,
+      232,
+      528,
+      296
+    ],
+    "label": "MAR"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-04",
+    "rect": [
+      460,
+      300,
+      528,
+      364
+    ],
+    "label": "ABR"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-05",
+    "rect": [
+      460,
+      368,
+      528,
+      432
+    ],
+    "label": "MAY"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-06",
+    "rect": [
+      460,
+      436,
+      528,
+      500
+    ],
+    "label": "JUN"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-07",
+    "rect": [
+      460,
+      504,
+      528,
+      568
+    ],
+    "label": "JUL"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-08",
+    "rect": [
+      460,
+      572,
+      528,
+      636
+    ],
+    "label": "AGO"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-09",
+    "rect": [
+      460,
+      640,
+      528,
+      704
+    ],
+    "label": "SEP"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-10",
+    "rect": [
+      460,
+      708,
+      528,
+      772
+    ],
+    "label": "OCT"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-11",
+    "rect": [
+      460,
+      776,
+      528,
+      840
+    ],
+    "label": "NOV"
+  },
+  {
+    "source": "year-2027",
+    "target": "m-2027-12",
+    "rect": [
+      460,
+      844,
+      528,
+      908
+    ],
+    "label": "DIC"
+  },
+  {
+    "source": "year-2027",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "year-2027",
+    "target": "cierre",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "year-2027",
+    "target": "year-2028",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "year-2028",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "year-2028",
+    "target": "year-2028",
+    "rect": [
+      134,
+      19,
+      214,
+      88
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-03",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "year-2028",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "year-2028",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-01",
+    "rect": [
+      460,
+      96,
+      528,
+      160
+    ],
+    "label": "ENE"
+  },
+  {
+    "source": "year-2028",
+    "target": "febrero",
+    "rect": [
+      460,
+      164,
+      528,
+      228
+    ],
+    "label": "FEB"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-03",
+    "rect": [
+      460,
+      232,
+      528,
+      296
+    ],
+    "label": "MAR"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-04",
+    "rect": [
+      460,
+      300,
+      528,
+      364
+    ],
+    "label": "ABR"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-05",
+    "rect": [
+      460,
+      368,
+      528,
+      432
+    ],
+    "label": "MAY"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-06",
+    "rect": [
+      460,
+      436,
+      528,
+      500
+    ],
+    "label": "JUN"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-07",
+    "rect": [
+      460,
+      504,
+      528,
+      568
+    ],
+    "label": "JUL"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-08",
+    "rect": [
+      460,
+      572,
+      528,
+      636
+    ],
+    "label": "AGO"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-09",
+    "rect": [
+      460,
+      640,
+      528,
+      704
+    ],
+    "label": "SEP"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-10",
+    "rect": [
+      460,
+      708,
+      528,
+      772
+    ],
+    "label": "OCT"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-11",
+    "rect": [
+      460,
+      776,
+      528,
+      840
+    ],
+    "label": "NOV"
+  },
+  {
+    "source": "year-2028",
+    "target": "m-2028-12",
+    "rect": [
+      460,
+      844,
+      528,
+      908
+    ],
+    "label": "DIC"
+  },
+  {
+    "source": "year-2028",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "year-2028",
+    "target": "year-2027",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "year-2028",
+    "target": "sin-fecha",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "inicio",
+    "rect": [
+      48,
+      25,
+      128,
+      89
+    ],
+    "label": "INICIO"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "year-2026",
+    "rect": [
+      134,
+      25,
+      214,
+      89
+    ],
+    "label": "AÑO"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "mes",
+    "rect": [
+      220,
+      25,
+      300,
+      89
+    ],
+    "label": "MES"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "semana",
+    "rect": [
+      306,
+      25,
+      386,
+      89
+    ],
+    "label": "SEM"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "dia",
+    "rect": [
+      392,
+      25,
+      472,
+      89
+    ],
+    "label": "DÍA"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "objetivos",
+    "rect": [
+      460,
+      160,
+      528,
+      252
+    ],
+    "label": "METAS"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "vida",
+    "rect": [
+      460,
+      272,
+      528,
+      364
+    ],
+    "label": "VIDA"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "bienestar",
+    "rect": [
+      460,
+      384,
+      528,
+      476
+    ],
+    "label": "BIENESTAR"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "finanzas",
+    "rect": [
+      460,
+      496,
+      528,
+      588
+    ],
+    "label": "FINANZAS"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "notas",
+    "rect": [
+      460,
+      608,
+      528,
+      700
+    ],
+    "label": "NOTAS"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "extras",
+    "rect": [
+      460,
+      720,
+      528,
+      812
+    ],
+    "label": "EXTRAS"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "menu",
+    "rect": [
+      58,
+      862,
+      170,
+      928
+    ],
+    "label": "MENÚ"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "year-2028",
+    "rect": [
+      184,
+      862,
+      306,
+      928
+    ],
+    "label": "ANTERIOR"
+  },
+  {
+    "source": "sin-fecha",
+    "target": "inicio",
+    "rect": [
+      320,
+      862,
+      442,
+      928
+    ],
+    "label": "SIGUIENTE"
+  }
+]

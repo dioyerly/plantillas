@@ -1,0 +1,41 @@
+DETAILED VISUAL VERIFICATION:
+======================================================================
+Page 168 "Papelitos y notas" - SHELL ELEMENTS:
+
+Text blocks found: 11
+  INICIO: FOUND (y=52)
+  AÑO: FOUND (y=52)
+  MES: FOUND (y=52)
+  SEM: FOUND (y=52)
+  DÍA: FOUND (y=52)
+  METAS: FOUND (y=201)
+  VIDA: FOUND (y=313)
+  BIENESTAR: FOUND (y=425)
+  FINANZAS: FOUND (y=537)
+  NOTAS: FOUND (y=649)
+  EXTRAS: FOUND (y=761)
+  MENÚ: FOUND (y=890)
+  ANTERIOR: FOUND (y=890)
+  SIGUIENTE: FOUND (y=890)
+
+Navigation Elements Status:
+  INICIO: PRESENT
+  AÑO: PRESENT
+  MES: PRESENT
+  SEM: PRESENT
+  DÍA: PRESENT
+  METAS: PRESENT
+  VIDA: PRESENT
+  BIENESTAR: PRESENT
+  FINANZAS: PRESENT
+  NOTAS: PRESENT
+  EXTRAS: PRESENT
+  MENÚ: PRESENT
+  ANTERIOR: PRESENT
+  SIGUIENTE: PRESENT
+
+Page dimensions: 540.0 x 960.0
+Navigation should be in:
+  Top (y=0-100): INICIO|AÑO|MES|SEM|DÍA
+  Right (x>400, y=100-900): METAS|VIDA|etc
+  Bottom (y>850): MENÚ|ANTERIOR|SIGUIENTE

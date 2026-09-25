@@ -1,0 +1,88 @@
+{
+  "page_size": [
+    [
+      540,
+      960
+    ]
+  ],
+  "total_pages": 39,
+  "month_dividers": 1,
+  "month_calendars": 1,
+  "month_intention_pages": 1,
+  "week_pages": 5,
+  "daily_pages": 31,
+  "complete_daily_pages": 31,
+  "incomplete_daily_pages": 0,
+  "dates_expected": 31,
+  "dates_found": 31,
+  "date_errors": 0,
+  "internal_links": 294,
+  "broken_internal_links": 0,
+  "duplicate_links": 4,
+  "future_destinations": 18,
+  "blank_pages": 0,
+  "clipping": 0,
+  "overflow": 0,
+  "english_visible_strings": 0,
+  "week_coverage_missing": [],
+  "problems": [
+    [
+      "overlapping link",
+      2,
+      "DIA 8"
+    ],
+    [
+      "overlapping link",
+      2,
+      "DIA 15"
+    ],
+    [
+      "overlapping link",
+      2,
+      "DIA 22"
+    ],
+    [
+      "overlapping link",
+      2,
+      "DIA 29"
+    ]
+  ],
+  "unreachable_pages": [],
+  "future_destination_list": [
+    "cal-2026-02",
+    "cal-2026-03",
+    "cal-2026-04",
+    "cal-2026-05",
+    "cal-2026-06",
+    "cal-2026-07",
+    "cal-2026-08",
+    "cal-2026-09",
+    "cal-2026-10",
+    "cal-2026-11",
+    "cal-2026-12",
+    "day-2025-12-29",
+    "day-2025-12-30",
+    "day-2025-12-31",
+    "day-2026-02-01",
+    "inicio",
+    "menu",
+    "year-2026"
+  ],
+  "golden_diff_percent": 0.007,
+  "golden_diff_bbox": [
+    634,
+    1413,
+    665,
+    1422
+  ],
+  "previews": [
+    "output/premium-proof/previews/01-divisor.png",
+    "output/premium-proof/previews/02-calendario.png",
+    "output/premium-proof/previews/03-intencion.png",
+    "output/premium-proof/previews/04-semana-1.png",
+    "output/premium-proof/previews/05-semana-media.png",
+    "output/premium-proof/previews/06-dia-01.png",
+    "output/premium-proof/previews/07-dia-15.png",
+    "output/premium-proof/previews/08-dia-31.png"
+  ]
+}
